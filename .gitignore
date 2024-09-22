@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Docker files
+docker-compose-college.yml
+Dockerfile
+
+# OS files
+.DS_Store
