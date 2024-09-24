@@ -2,7 +2,7 @@
 
 Welcome to the AI-Powered College Search Platform, an advanced tool designed to help users search for colleges using AI.
 
-## Overview
+## Overview  .
 
 This platform allows users to input search criteria and receive personalized college search results, leveraging OpenAI's API for natural language processing.
 
