@@ -15,3 +15,6 @@ Dockerfile
 
 # OS files
 .DS_Store
+
+# API KEYS
+OPENAI_API_KEY
